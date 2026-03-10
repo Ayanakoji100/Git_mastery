@@ -1,4 +1,3 @@
 ## this Git mastery repo
-## hello from dev-bala 
+## hello from shiva
 -- changes made from dev-bala
--- to be noted
